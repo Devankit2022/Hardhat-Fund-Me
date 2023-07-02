@@ -1,0 +1,16 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+deployments
+contracts/example
+deploy/02-deploy-storage.js
+
+# Hardhat files
+cache
+artifacts
+gas-report.txt
+deployments
+

@@ -18,7 +18,7 @@ Through the use of this smart contract, you can raise money.
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-fund-me-fcc
+git clone https://github.com/Devankit2022/Hardhat-Fund-Me.git
 cd hardhat-fund-me-fcc
 yarn
 ```

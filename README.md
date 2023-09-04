@@ -19,7 +19,7 @@ Through the use of this smart contract, you can raise money.
 
 ```
 git clone https://github.com/Devankit2022/Hardhat-Fund-Me.git
-cd hardhat-fund-me-fcc
+cd Hardhat-Fund-Me
 yarn
 ```
 
